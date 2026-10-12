@@ -1,0 +1,6 @@
+# La page de construction s'affiche sur l'adresse principale (le "!" force la règle, même si index.html existe).
+# POUR OUVRIR LE SITE : supprime la ligne "/  /construction.html  200!" puis redéploie.
+/  /construction.html  200!
+
+# Aperçu du vrai site pendant les travaux : https://ton-site.netlify.app/apercu
+/apercu  /index.html  200
